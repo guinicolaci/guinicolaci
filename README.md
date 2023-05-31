@@ -8,6 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaci204&layout=compact&hide_border=true&title_color=6A5ACD&text_color=6A5ACD&bg_color=0d1117" />
 </div>
 
+
 ### Main skills:
 <div style="text-align: center;">
     <a href="https://github.com/Nicolaci204">
