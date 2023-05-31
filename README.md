@@ -22,11 +22,24 @@
     </a>
 </div>
 
+### OS
+<div style="text-align: center;">
+    <a href="https://github.com/Nicolaci204">
+        <img src="https://img.shields.io/badge/Windows-%2339457E.svg?style=for-the-badge&logo=Windows" alt="Windows">
+    </a>
+    <a href="https://github.com/Nicolaci204">
+        <img src="https://img.shields.io/badge/linux-%2339457E.svg?style=for-the-badge&logo=Linux" alt="Linux">
+    </a>
+</div>
+
+
 ### Studying in this moment:
 <div style="text-align: center;">
     <a href="https://github.com/Nicolaci204">
-        <img src="https://img.shields.io/badge/-React.js-%2339457E.svg?style=for-the-badge&logo=react&labelColor=0D1117" alt="React">
+        <img src="https://img.shields.io/badge/-React.js-%2339457E.svg?style=for-the-badge&logo=react" alt="React">
     </a>
+  
+  
 
 
 <div align="center"> 
