@@ -23,7 +23,10 @@
 </div>
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-%2339457E.svg?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+<div style="text-align: center;">
+    <a href="https://github.com/Nicolaci204">
+        <img src="https://img.shields.io/badge/-React.js-%2339457E.svg?style=for-the-badge&logo=react&labelColor=0D1117" alt="React">
+    </a>
 
 
 <div align="center"> 
