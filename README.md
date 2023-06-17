@@ -1,11 +1,9 @@
 <div align="center">
-  <div style="width: 70%;">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=60606C&height=120&section=header"/>
-     <h1 align="center">Guilherme Nicolaci</h1>
-  </div>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=60606C&height=120&section=header" />
 </div>
 
 <div align="center">  
+    <h1>Guilherme Nicolaci</h1>
   <img width="49%" height="240px" src="https://github-readme-stats.vercel.app/api?username=Nicolaci204&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=4F4F4F&text_color=F8F8FF&bg_color=0d1117" alt="Guilherme Nicolaci github stats" /> 
   <img width="42%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaci204&layout=compact&hide_border=true&title_color=F8F8FF&text_color=F8F8FF&bg_color=0d1117" />
 </div>
@@ -47,7 +45,7 @@
 
 <div align="center"> 
 <br>
-  <h1 align="center">Social Media</h1>
+<h1 align="center">Social Media</h1>
 <a href="https://www.linkedin.com/in/guilherme-nicolaci-1446b0230/" target="_blank"><img align="center" height="40" width="40" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> 
 <a href="https://www.instagram.com/gui_nicolaci/" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"> 
 <a href="mailto:guilhermenunzio@gmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> 
