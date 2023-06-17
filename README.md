@@ -9,7 +9,7 @@
 </div>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <h1 align="center">Main Skills</h1>
     <img align="center" height="40" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="40" width="40" alt="postgresql" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -51,6 +51,6 @@
 <a href="mailto:guilhermenunzio@gmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> 
   
  </div>
- 
+ <br>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60606C&height=120&section=footer"/>
  
