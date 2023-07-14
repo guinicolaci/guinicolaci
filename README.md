@@ -34,8 +34,11 @@
   <div style="display: inline_block"><br>
     <h1 align="center">Studying in this moment</h1>
     <img align="center" height="40" width="40" alt="angularjs" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    <img align="center" height="40" width="40" alt="docker" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" height="40" width="40" alt="typescript" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" height="40" width="40" alt="mongodb" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img align="center" height="40" width="40" alt="docker" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+
 
 
   </div>
