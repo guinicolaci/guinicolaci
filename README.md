@@ -9,15 +9,6 @@
 </div>
 
 <div  align="center"> 
-  <div style="display: inline_block">
-    <h1 align="center">Main Skills</h1>
-    <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="40" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="40" width="40" alt="postgresql" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="40" width="40" alt="bash" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -31,14 +22,6 @@
   </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Studying in this moment</h1>
-    <img align="center" height="40" width="40" alt="angularjs" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    <img align="center" height="40" width="40" alt="typescript" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" height="40" width="40" alt="mongodb" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align="center" height="40" width="40" alt="docker" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-
-
 
   </div>
     
@@ -47,7 +30,7 @@
   <h1 align="center">Social Media</h1>
   <a href="https://www.linkedin.com/in/guilhermenicolaci/" target="_blank"><img align="center" height="40" width="40" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> 
   <a href="https://www.instagram.com/gui_nicolaci/" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"> 
-  <a href="mailto:guilhermenunzio@gmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> 
+  <a href="mailto:guilherme_nicolaci@hotmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> 
 </div>
     
 <br>
