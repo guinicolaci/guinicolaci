@@ -4,7 +4,6 @@
 
 <div align="center">  
     <h1>Guilherme Nicolaci</h1>
-    <h3>My portfolio https://guinicolaci.vercel.app/</h3>
   <img width="49%" height="240px" src="https://github-readme-stats.vercel.app/api?username=guinicolaci&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=4F4F4F&text_color=F8F8FF&bg_color=0d1117" alt="Guilherme Nicolaci github stats" /> 
   <img width="42%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinicolaci&layout=compact&hide_border=true&title_color=F8F8FF&text_color=F8F8FF&bg_color=0d1117" />
 </div>
